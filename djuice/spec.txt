@@ -4,9 +4,9 @@ BREAKDOWN OF INDEX PAGE:
 
 https://nettbutikk.djuice.no/
 
-* Make sure no filters are enables, so all phones are shown. Default is no filters.
+* Make sure no filters are enabled, so all phones are shown. Default is no filters.
 
-All phones on this page needs scraping. Specificationf or sub page of each phone below:
+All phones on this page needs scraping. Specification for sub page of each phone below:
 
 Marked fields:
 
@@ -47,7 +47,7 @@ So, based upon this web page, I'd like up to end up with a data structure like t
    { 
      "Samsung Galaxy S7" => {                                             [A]
         "svart" => {                                                      [B/Index:C]                 
-            Stock  => "På lager (20+)",                                   [Index:B]
+            Stock  => "PÃ¥ lager (20+)",                                   [Index:B]
             Plans => {                    
               "NONSTOP M" => {                                            [C]
                 PayOpt => [
